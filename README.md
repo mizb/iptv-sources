@@ -14,6 +14,7 @@ Sources are from:
 - [YanG-1989/m3u](https://github.com/YanG-1989/m3u)
 - [fanmingming/live](https://github.com/fanmingming/live)
 - [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV)
+- [joevess/IPTV](https://github.com/joevess/IPTV)
 
 EPG Sources are from:
 
@@ -69,7 +70,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Sat Jan 27 2024 02:14:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 27 2024 02:23:03 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
