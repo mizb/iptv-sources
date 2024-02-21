@@ -1832,7 +1832,7 @@ Test,#genre#
 [BD]刘德华,https://epg.pw/stream/8848575026ebd3c19258f79bc476986d87d68dd75fc6d2ae65eb99163ca4883d.ctv
 [VGA]哈尔滨影,https://epg.pw/stream/4761681fab1275b2d0237e83813c4845effdd80a8575a346ed32a092aaab0872.m3u8
 [VGA]林正英2,https://epg.pw/stream/8db07a8e0ac9e00e26d9eff7e0f1bd816c577fb4744a56631783e8366872f5fd.ctv
-[HD]精彩电视剧,https://epg.pw/stream/93ffd63d2d18ebb1e9cb628d9028325d54f2e18dd7c3e69095aa2ccc9e03121f.m3u8
+[BD]精彩电视剧,https://epg.pw/stream/93ffd63d2d18ebb1e9cb628d9028325d54f2e18dd7c3e69095aa2ccc9e03121f.m3u8
 [HD]绍兴文化影院,https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8
 [SD]老妖电影,https://epg.pw/stream/816ca72465df24a3a259e57431d34a3fdb1506ec6894a2cd5668c20b8c578b8a.ctv
 [SD]万州影视文艺,https://epg.pw/stream/4fbd9d1e44a192a1b593a0448e0ea3705f04408928e1c1a962c431988503c156.m3u8
@@ -3858,7 +3858,6 @@ Canal 7 Chubut (720p) [Not 24/7],https://ythls.armelin.one/channel/UCfmLIFSQSQ-4
 Canal 7 Jujuy (720p),https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 Canal 7 Salta (1080p),https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 Canal 7 Santiago del Estero (720p),https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
-Canal 8 (720p) [Not 24/7],https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 Canal 8 Mar del Plata (720p),https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 Canal 8 Valle de Uco (720p),https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 Canal 9 Barbe TV (720p) [Not 24/7],https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
@@ -8305,6 +8304,7 @@ Canal 6 Tecpán (720p) [Not 24/7],https://stream.oursnetworktv.com/latin/encoder
 Canal 7 Neuquén (1080p),https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 Canal 7 SLP (1080p) [Not 24/7],https://mvtvstream.com:444/live/6456eb2e56ab7/index.m3u8
 Canal 7 Talanga Visión (720p),https://stream.oursnetworktv.com/latin/talangatv/playlist.m3u8
+Canal 8 (720p) [Not 24/7],https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 Canal 8 C&C Producciones (720p),https://59ce1298bfb98.streamlock.net/canal8tv/canal8tv/playlist.m3u8
 Canal 8 Catacaos (720p) [Not 24/7],https://live.obslivestream.com/canal8/index.m3u8
 Canal 8 Los Sauces TV (720p),http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8
