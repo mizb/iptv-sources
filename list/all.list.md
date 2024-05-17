@@ -552,7 +552,7 @@
 | 546 | [BD]tastemade france (1080p) | epg.pw | <https://epg.pw/stream/4da55c2279dcf16334309193828f9ca32e93c90e773f9f126cf2274bf3d7eaf9.m3u8> |
 | 547 | [BD]franken fernsehen | epg.pw | <https://epg.pw/stream/44df1eaf6144559bc93a5ba914e95b632af82d4754d6fb6e5224bc9ef57c53d2.m3u8> |
 | 548 | [BD]reforma tv | epg.pw | <https://epg.pw/stream/6e819514346672260dfe2661fa52fff5815e6bcc891f1d6240afe746bb8e9ed8.m3u8> |
-| 549 | [HD]french lover | epg.pw | <https://epg.pw/stream/05a6207965aed3400d9b648e51da83dda363f6ef1607bc44821608ad3eb33fc6.m3u8> |
+| 549 | [HD]frenchlover | epg.pw | <https://epg.pw/stream/5a26b68c75fb825addf8df0264db67729fe4d464a4101b55ebaa4ebd6c9d8f50.m3u8> |
 | 550 | [HD]fresh (720p) | epg.pw | <https://epg.pw/stream/b6b92f839830c390d9993d50373c9c129f5ca5df860a215269e5e4c611fffea8.m3u8> |
 | 551 | [SD]gaora sports | epg.pw | <https://epg.pw/stream/402a98240c4d4a112e34fc8981ab18612c57a700f5d49ee17b7d8bf931171c24.m3u8> |
 | 552 | [HD]tg junior | epg.pw | <https://epg.pw/stream/8977a5dc1b07b8b0bb2a5568820856b72badd1c20f5eb5c27d81fa934c70d1ff.m3u8> |
@@ -1762,7 +1762,7 @@
 | 1756 | [BD]东南卫视[ipv6] | epg.pw | <https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8> |
 | 1757 | [BD]东方卫视[ipv6] | epg.pw | <https://epg.pw/stream/db72318da9003718197a9ce56d7ad27e81eafaab37c97deb3a5c5537dbcd8d03.m3u8> |
 | 1758 | [BD]东方财经 hd | epg.pw | <https://epg.pw/stream/f16d8dfb37a570ed94a1b31d5e64dd6ba1f8f6586a63bf3277eb03794a345a8d.ctv> |
-| 1759 | [BD]东映チャンネル | epg.pw | <https://epg.pw/stream/4fccab3e90515b3e3ea76a7364478750f9fc435e5a06958b972634dfdd0c3e94.m3u8> |
+| 1759 | [HD]东映チャンネル | epg.pw | <https://epg.pw/stream/3a6ad27a3ecca9e1f2c9cd58bdb43c78568784465bc8291bc02b37182dd315da.m3u8> |
 | 1760 | [BD]东森幼幼台 | epg.pw | <https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8> |
 | 1761 | [BD]东森新闻 | epg.pw | <https://epg.pw/stream/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.m3u8> |
 | 1762 | [VGA]东森美洲 | epg.pw | <https://epg.pw/stream/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8> |
@@ -1995,4 +1995,4 @@
 | 1989 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1990 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Fri May 17 2024 20:12:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 17 2024 22:10:48 GMT+0000 (Coordinated Universal Time)**
