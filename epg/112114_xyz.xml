@@ -42,6 +42,9 @@
 	<programme channel="4K综艺" start="20241119002300 +0800" stop="20241119015400 +0800">
 		<title lang="zh">我最爱的女人们20190628</title>
 	</programme>
+	<programme channel="4K综艺" start="20241119015400 +0800" stop="20241119023700 +0800">
+		<title lang="zh">我最爱的女人们20190629</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -49368,6 +49371,9 @@
 	<programme channel="newtv超级电影" start="20241119002500 +0800" stop="20241119015900 +0800">
 		<title lang="zh">火锅英雄</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241119015900 +0800" stop="20241119033400 +0800">
+		<title lang="zh">我是代办</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -49391,6 +49397,9 @@
 	</channel>
 	<programme channel="newtv精品纪录" start="20241119001100 +0800" stop="20241119010500 +0800">
 		<title lang="zh">第4集：安b7危</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241119020000 +0800" stop="20241119023500 +0800">
+		<title lang="zh">27_拯救“小糖人” 儿科专家倪桂臣</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -49419,11 +49428,17 @@
 	<programme channel="newtv家庭剧场" start="20241119010000 +0800" stop="20241119015500 +0800">
 		<title lang="zh">29_大嫁风尚</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241119015500 +0800" stop="20241119024000 +0800">
+		<title lang="zh">30_大嫁风尚</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
 	<programme channel="newtv热播精选" start="20241119000700 +0800" stop="20241119015600 +0800">
 		<title lang="zh">绝色营救</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241119015600 +0800" stop="20241119025200 +0800">
+		<title lang="zh">20_父辈的荣耀</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -49503,6 +49518,9 @@
 	<programme channel="newtv惊悚悬疑" start="20241119010800 +0800" stop="20241119014700 +0800">
 		<title lang="zh">美国云杉新一代止疼再生精油-渠道（右）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241119014700 +0800" stop="20241119033900 +0800">
+		<title lang="zh">悍匪夺金</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -49559,6 +49577,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20241119001600 +0800" stop="20241119015000 +0800">
 		<title lang="zh">飞鱼服</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241119015000 +0800" stop="20241119031700 +0800">
+		<title lang="zh">大神猴1降妖篇</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
